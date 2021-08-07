@@ -1,0 +1,2 @@
+# rutas
+ lazy_loading
